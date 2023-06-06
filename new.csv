@@ -1,0 +1,19 @@
+,Unnamed: 0.22,Unnamed: 0.21,Unnamed: 0.20,Unnamed: 0.19,Unnamed: 0.18,Unnamed: 0.17,Unnamed: 0.16,Unnamed: 0.15,Unnamed: 0.14,Unnamed: 0.13,Unnamed: 0.12,Unnamed: 0.11,Unnamed: 0.10,Unnamed: 0.9,Unnamed: 0.8,Unnamed: 0.7,Unnamed: 0.6,Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,area,duration,Main tasks,Data requirement,Deliverable,base,col1,col2,col3
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1-5 ha, 3-4 weeks,"1. Existing Condition Analysis (Landuse, Catchment, Flow network)
+2. Proposed Condition Analysis (Landuse, Catchment, Flow network)
+3. Flow Calculation
+4. Pollution Calculation (Pre and Post)
+5. Solution for treatment facility
+6. Solution for delay facility
+7. Proposed runoff plan
+8. Low point mapping using SCALGO
+9. Flood analysis for 100 years rain using SCALGO  ","1. Detail plan (dwg & pdf)
+2. Project boundary (dwg)
+3. Property boundaries (dwg)
+4. Existing and proposed landuse
+4. Elevation/height model/DEM (if not available, we use SCALGO)
+5. Geo reports (if not availble, we use data from SGU)
+6. Existing stormwater network
+7. Location/area of protected site in project area (if not available, we check in SCALGO)","1. Stormwater investigation report
+2. Stormtac File
+3. All maps and drawing (shp file)",40000,172206.64000000013,6000,6000
