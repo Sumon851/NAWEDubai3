@@ -37,7 +37,7 @@ def filter_criteria(q_list):
 
         x.append(bar)
         if len(x)==10:
-    		st.image('climate_zone.png')
+        	st.image('climate_zone.png')
 
 filter_criteria(q_list)## factor lists
 #print(x)
@@ -82,5 +82,5 @@ except:
 	pass
 #print(constant,budget)
 
-if st.button('next :arrow_forward:'):
+if st.button('NEXT :arrow_forward:'):
 	switch_page('soil')
